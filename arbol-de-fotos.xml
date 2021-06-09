@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fotografía>
+    <naturaleza>
+        <foto>
+            <id> 1 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N1 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 3265 </alto>
+            <ancho> 4898 </ancho>
+        </foto>
+        <foto>
+            <id> 2 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N2 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+        <foto>
+            <id> 3 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N3 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1280 </alto>
+            <ancho> 1920 </ancho>
+        </foto>
+        <foto>
+            <id> 4 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N4 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 5 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N5 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2037 </alto>
+            <ancho> 3060 </ancho>
+        </foto>
+        <foto>
+            <id> 6 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N6 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+        <foto>
+            <id> 7 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N7 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 8 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N8 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 9 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N9 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2037 </alto>
+            <ancho> 3059 </ancho>
+        </foto>
+        <foto>
+            <id> 10 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N10 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 11 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N11 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 12 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N12 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1925 </alto>
+            <ancho> 2890 </ancho>
+        </foto>
+        <foto>
+            <id> 13 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N13 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2056 </alto>
+            <ancho> 3088 </ancho>
+        </foto>
+        <foto>
+            <id> 14 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N14 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+        <foto>
+            <id> 15 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N15 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 16 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N16 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 17 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N17 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 18 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N18 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 19 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N19 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1925 </alto>
+            <ancho> 2890 </ancho>
+        </foto>
+        <foto>
+            <id> 20 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N20 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2056 </alto>
+            <ancho> 3088 </ancho>
+        </foto>
+        <foto>
+            <id> 21 </id>
+            <autor>MarinaDels</autor>
+            <nombre> N21 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+
+        
+    </naturaleza>
+    <retrato>
+        <foto>
+
+            <id> 22 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 1C </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2037 </alto>
+            <ancho> 3060 </ancho>
+        </foto>
+        <foto>
+            <id> 23 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 1D </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+        <foto>
+            <id> 24 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 1I </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 25 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 2C </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1925 </alto>
+            <ancho> 2890 </ancho>
+        </foto>
+        <foto>
+            <id> 26 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 2D </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2056 </alto>
+            <ancho> 3088 </ancho>
+        </foto>
+        <foto>
+            <id> 27 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 3C </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2056 </alto>
+            <ancho> 3088 </ancho>
+        </foto>
+        <foto>
+            <id> 28 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 3D </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 29 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 3I </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 30 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 4I </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1925 </alto>
+            <ancho> 2890 </ancho>
+        </foto>
+        <foto>
+            <id> 31 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 5C </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2056 </alto>
+            <ancho> 3088 </ancho>
+        </foto>
+        <foto>
+            <id> 32 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 5I </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+        <foto>
+            <id> 33 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 6C </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 34 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 6D </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 35 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 7C </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+        <foto>
+            <id> 36 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 7D </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1280 </alto>
+            <ancho> 1920 </ancho>
+        </foto>
+        <foto>
+            <id> 37 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 7I </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 38 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 8C </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 2037 </alto>
+            <ancho> 3060 </ancho>
+        </foto>
+        <foto>
+            <id> 39 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 8I </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+        <foto>
+            <id> 40 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 9C </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 41 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 9D </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 42 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 9I </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2037 </alto>
+            <ancho> 3059 </ancho>
+        </foto>
+        <foto>
+            <id> 43 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 10I </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 44 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 11C </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 45 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 11D </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1925 </alto>
+            <ancho> 2890 </ancho>
+        </foto>
+        <foto>
+            <id> 46 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 11I </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2056 </alto>
+            <ancho> 3088 </ancho>
+        </foto>
+        <foto>
+            <id> 47 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 12C </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+        <foto>
+            <id> 48 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 12I </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2037 </alto>
+            <ancho> 3060 </ancho>
+        </foto>
+        <foto>
+            <id> 49 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 13I </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+        <foto>
+            <id> 50 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 14C </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 51 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 14D </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1925 </alto>
+            <ancho> 2890 </ancho>
+        </foto>
+        <foto>
+            <id> 52 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 14I </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2056 </alto>
+            <ancho> 3088 </ancho>
+        </foto>
+        <foto>
+            <id> 53 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 15I </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2056 </alto>
+            <ancho> 3088 </ancho>
+        </foto>
+    </retrato>
+    <mdo>
+        <foto>
+            <id> 54 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M1 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2037 </alto>
+            <ancho> 3060 </ancho>
+        </foto>
+        <foto>
+            <id> 55 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M2 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+        <foto>
+            <id> 56 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M3 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 57 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M4 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1925 </alto>
+            <ancho> 2890 </ancho>
+        </foto>
+        <foto>
+            <id> 58 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M5 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2056 </alto>
+            <ancho> 3088 </ancho>
+        </foto>
+        <foto>
+            <id> 59 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M6 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2056 </alto>
+            <ancho> 3088 </ancho>
+        </foto>
+        <foto>
+            <id> 60 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M7 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 61 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M8 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 62 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M9 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1925 </alto>
+            <ancho> 2890 </ancho>
+        </foto>
+        <foto>
+            <id> 63 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M10 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2056 </alto>
+            <ancho> 3088 </ancho>
+        </foto>
+        <foto>
+            <id> 64 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M11 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+        <foto>
+            <id> 65 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M12 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 66 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M13 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 67 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M14 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+         <foto>
+            <id> 68 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M15 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 69 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M16 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2037 </alto>
+            <ancho> 3059 </ancho>
+        </foto>
+        <foto>
+            <id> 70 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M17 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 71 </id>
+            <autor>MarinaDels</autor>
+            <nombre> M18 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+    </mdo>
+    <PLITL>
+     <foto>
+            <id> 72 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 2019-12-04 07.22.51 1-01 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 73 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 2019-12-04 07.22.53 1-01 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2037 </alto>
+            <ancho> 3059 </ancho>
+        </foto>
+        <foto>
+            <id> 74 </id>
+            <autor>MarinaDels</autor>
+            <nombre> L1 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 75 </id>
+            <autor>MarinaDels</autor>
+            <nombre> L2 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 76 </id>
+            <autor>MarinaDels</autor>
+            <nombre> L3 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1925 </alto>
+            <ancho> 2890 </ancho>
+        </foto>
+         <foto>
+            <id> 77 </id>
+            <autor>MarinaDels</autor>
+            <nombre> L4 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2037 </alto>
+            <ancho> 3060 </ancho>
+        </foto>
+        <foto>
+            <id> 78 </id>
+            <autor>MarinaDels</autor>
+            <nombre> L5 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+        <foto>
+            <id> 79 </id>
+            <autor>MarinaDels</autor>
+            <nombre> L6 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 80 </id>
+            <autor>MarinaDels</autor>
+            <nombre> L7 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1925 </alto>
+            <ancho> 2890 </ancho>
+        </foto>
+        <foto>
+            <id> 81 </id>
+            <autor>MarinaDels</autor>
+            <nombre> L8 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2056 </alto>
+            <ancho> 3088 </ancho>
+        </foto>
+        <foto>
+            <id> 82 </id>
+            <autor>MarinaDels</autor>
+            <nombre> L9 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 83 </id>
+            <autor>MarinaDels</autor>
+            <nombre> L10 </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1925 </alto>
+            <ancho> 2890 </ancho>
+        </foto>
+         <foto>
+            <id> 84 </id>
+            <autor>MarinaDels</autor>
+            <nombre> L11 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2037 </alto>
+            <ancho> 3060 </ancho>
+        </foto>
+    </PLITL>
+    <imagenes_photography>
+     <foto>
+            <id> 85 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 1C </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1280 </alto>
+            <ancho> 1920 </ancho>
+        </foto>
+        <foto>
+            <id> 86 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 1D </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 87 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 1I </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 2037 </alto>
+            <ancho> 3060 </ancho>
+        </foto>
+        <foto>
+            <id> 88 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 2C </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+        <foto>
+            <id> 89 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 2D </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 90 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 2I </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 91 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 3C </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2037 </alto>
+            <ancho> 3059 </ancho>
+        </foto>
+        <foto>
+            <id> 92 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 3D </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 93 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 3I </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 94 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 4C </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1925 </alto>
+            <ancho> 2890 </ancho>
+        </foto>
+        <foto>
+            <id> 95 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 4D </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2056 </alto>
+            <ancho> 3088 </ancho>
+        </foto>
+        <foto>
+            <id> 96 </id>
+            <autor>MarinaDels</autor>
+            <nombre> 4I </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+    </imagenes_photography>
+    <carrusel>
+        <foto>
+            <id> 97 </id>
+            <autor>MarinaDels</autor>
+            <nombre> carrusel1 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2037 </alto>
+            <ancho> 3060 </ancho>
+        </foto>
+        <foto>
+            <id> 98 </id>
+            <autor>MarinaDels</autor>
+            <nombre> carrusel2 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+        <foto>
+            <id> 99 </id>
+            <autor>MarinaDels</autor>
+            <nombre> carrusel3 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 100 </id>
+            <autor>MarinaDels</autor>
+            <nombre> carrusel4 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 1925 </alto>
+            <ancho> 2890 </ancho>
+        </foto>
+    </carrusel>
+    <otros>
+         <foto>
+            <id> 101 </id>
+            <autor>MarinaDels</autor>
+            <nombre> asidef </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 2056 </alto>
+            <ancho> 3088 </ancho>
+        </foto>
+        <foto>
+            <id> 102 </id>
+            <autor>MarinaDels</autor>
+            <nombre> contacto </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2056 </alto>
+            <ancho> 3088 </ancho>
+        </foto>
+        <foto>
+            <id> 103 </id>
+            <autor>MarinaDels</autor>
+            <nombre> fondo </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 2037 </alto>
+            <ancho> 3060 </ancho>
+        </foto>
+        <foto>
+            <id> 104 </id>
+            <autor>MarinaDels</autor>
+            <nombre> fondo2 </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 3168 </alto>
+            <ancho> 4752 </ancho>
+        </foto>
+        <foto>
+            <id> 105 </id>
+            <autor>MarinaDels</autor>
+            <nombre> instagram </nombre>
+            <ext> PNG </ext>
+            <B-N>No </B-N>
+            <alto> 512 </alto>
+            <ancho> 512 </ancho>
+        </foto>
+        <foto>
+            <id> 106 </id>
+            <autor>MarinaDels</autor>
+            <nombre> logo </nombre>
+            <ext> PNG </ext>
+            <B-N>No </B-N>
+            <alto> 512 </alto>
+            <ancho> 512 </ancho>
+        </foto>
+       <foto>
+            <id> 107 </id>
+            <autor>MarinaDels</autor>
+            <nombre> logo2 </nombre>
+            <ext> PNG </ext>
+            <B-N>No </B-N>
+            <alto> 512 </alto>
+            <ancho> 512 </ancho>
+        </foto>
+        <foto>
+            <id> 108 </id>
+            <autor>MarinaDels</autor>
+            <nombre> spoty </nombre>
+            <ext> PNG </ext>
+            <B-N>No </B-N>
+            <alto> 512 </alto>
+            <ancho> 512 </ancho>
+        </foto>
+        <foto>
+            <id> 109 </id>
+            <autor>MarinaDels</autor>
+            <nombre> twitter </nombre>
+            <ext> JPG </ext>
+            <B-N>Si </B-N>
+            <alto> 1867 </alto>
+            <ancho> 2800 </ancho>
+        </foto>
+        <foto>
+            <id> 110 </id>
+            <autor>MarinaDels</autor>
+            <nombre> youtube </nombre>
+            <ext> PNG </ext>
+            <B-N>No </B-N>
+            <alto> 512 </alto>
+            <ancho> 512 </ancho>
+        </foto>
+        <foto>
+            <id> 111 </id>
+            <autor>MarinaDels</autor>
+            <nombre> logo </nombre>
+            <ext> JPG </ext>
+            <B-N>No </B-N>
+            <alto> 4325 </alto>
+            <ancho> 3546 </ancho>
+        </foto>
+    </otros>
+</fotografía>

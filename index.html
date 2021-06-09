@@ -6,99 +6,85 @@
 		
 		<title>MarinaDels</title>
 	</head>
-	<body>
-		<div id="izq"> 	 
-		<div id="logo"> 
-				<img class="img" src="iwm/logo.png" alt="centered image" />
-            <!-- El logo he decidio ponerlo al principio del body, así siempre me sale en la misma parte.
-                 A partir  de esta pagina el logo sirve de enlace al inicio-->
-		</div>
-            <!--En general los DIV los he nombrado en lugar de crear clases por el simple motivo de que cada uno es especial y necesita sus propios ajustes-->
-		<div id="C1">
-		
-		<div class="mardel"> <!--mardel viene de Marina dels-->
-		<p> MARINA DELS	</p>
-		</div>
-		<div class="descript"><!-- una mera descripción de su persona-->
-		Photographer and freelance film artist. <br/>
-		Content creator, here you can find the archive of my life. <br/>
-		Currently living in Madrid. <br/>
-		</div>
-		</div>
-		<div id="D1">
-		
-			<div id="D2"> <!--los enlaces los coloqué con DIVS, podría haber usado tablas, no se me ocurrió-->
-				<div id="D4">
-				<a href="Photography.html"> Photography </a>
-				</div>
-			
-				<div id="D5">
-				<a href="Video.html"> Video </a>
-				</div>
-			</div>
-			
-			
-			
-			<div id="D3">
-			<div id="D6">
-			<a href="Blog.html"> Blog </a>
-			</div>
-			<div id="D7">
-			<a href="Contact.html"> Contact</a>
-			</div>
-			</div>
-		</div>
-		<div id="E1"> <!--En general la parte de las redes fue complicada de ajustar, me llevo un buen rato-->
-			<div id="E2">
-		
-				<div id="spotify">
-			
-				<a href="https://open.spotify.com/user/cdd1o21y5ksbqyvo1x8kpyypu?si=3mmwdY69RzeKrn4BsZHRIQ">
-					<img src="iwm/spoty.png" alt="spoty" style="width:42px;height:42px;">
-				</a>
-			</div>
-			
-				<div id="instagram">
-			<a href="https://instagram.com/marinadels">
-					<img src="iwm/instagram.png" alt="instagram" style="width:42px;height:42px;">
-				</a>
-			
-			</div>
-			</div>
-			<div id="E3">
 	
-				<div id="youtube">
-			<a href="https://www.youtube.com/channel/UCuPTdJjD4hWYUpA_yvf1LWA/featured?view_as=subscriber">
-					<img src="iwm/youtube.png" alt="youtube" style="width:42px;height:42px;">
-				</a>
-			
-			
+	<body>
+		<main>	 
+			<div id="logo"> 
+				<img class="img" src="iwm/logo.png" alt="centered image" />
+				<!--El logo he decidio ponerlo al principio del body, así siempre me sale en la misma parte. A partir  de esta pagina el logo sirve de enlace al inicio-->
 			</div>
-			
-				<div id="twitter">
-			<a href="https://twitter.com/_marinadels">
-					<img src="iwm/twitter.png" alt="twitter" style="width:42px;height:42px;">
-				</a>
-			
+			<!--En general los DIV los he nombrado en lugar de crear clases por el simple motivo de que cada uno es especial y necesita sus propios ajustes-->
+			<div id="C1">
+				<div class="mardel"> <!--Mardel viene de Marina dels-->
+					<p> MARINA DELS	</p>
+				</div>
+				<div class="descript"><!--Una mera descripción de su persona-->
+						Photographer and freelance film artist. <br/>
+						Content creator, here you can find the archive of my life. <br/>
+						Currently living in Madrid. <br/>
+						
+				</div>
 			</div>
+			<div id="Redes">
+				<div id="Rizq"> <!--Los enlaces los coloqué con DIVS, podría haber usado tablas, no se me ocurrió-->
+					<div id="Dizq">
+						<a href="Photography.html"> Photography </a>
+					</div>
+					<div id="Dder">
+						<a href="Video.html"> Video </a>
+					</div>
+				</div>
+				<div id="Rder">
+					<div id="Dizq">
+						<a href="Blog.html"> Blog </a>
+					</div>
+					<div id="Dder">
+						<a href="Contact.html"> Contact</a>
+					</div>
+				</div>
 			</div>
-            </div>
+			<div id="divgrande"> <!--En general la parte de las redes fue complicada de ajustar, me llevo un buen rato-->
+				<div id="divizq">
+					<div id="izquierda">
+						<a href="https://open.spotify.com/user/cdd1o21y5ksbqyvo1x8kpyypu?si=3mmwdY69RzeKrn4BsZHRIQ">
+							<img src="iwm/spoty.png" alt="spoty" style="width:42px;height:42px;">
+						</a>
+					</div>
+					<div id="derecha">
+						<a href="https://instagram.com/marinadels">
+							<img src="iwm/instagram.png" alt="instagram" style="width:42px;height:42px;">
+						</a>
+					</div>
+				</div>
+				
+				<div id="divder">
+					<div id="izquierda">
+						<a href="https://www.youtube.com/channel/UCuPTdJjD4hWYUpA_yvf1LWA/featured?view_as=subscriber">
+						<img src="iwm/youtube.png" alt="youtube" style="width:42px;height:42px;">
+						</a>
+					</div>
+					<div id="derecha">
+						<a href="https://twitter.com/_marinadels">
+							<img src="iwm/twitter.png" alt="twitter" style="width:42px;height:42px;">
+						</a>
+					</div>
+				</div>
+			</div>
+		</main> <!--Dividí la pagina en 2 usando main y aside, hay más formas y menos enrevesadas, usé esta-->
 		
-		</div> 
-		
-		
-		
-		
-		<div id="der"> 
+		<aside>
 			<div class="carrusel">
-				<ul> <!--el carrusel fué dificil de ajustar por el tamaño de las imagenes, ya que vienen en RAW-->
-					<li><a title="nature" href="nature.html"><img src="iwm/asidef.jpg"   alt="Nature" /></a></li>
-					<li><a title="portrait" href="portraits.html"><img src="iwm/carrusel/carrusel1.jpg" alt="Portrait" /></a></li>
-					<li><a title="mdo" href="mdo.html"><img src="iwm/carrusel/carrusel3.jpg"  alt="mdo"/></a></li>
-					<li><a title="litl" href="litl.html"><img src="iwm/carrusel/carrusel4.jpg" alt="litl" /></a></li>
+				
+				<ul>
+					 <!--El carrusel ha dado muchos problemas, esta fue la mejor forma de ponerlo-->
+					<li><img src="iwm/natur/N8.jpg"  alt="Nature" /></li>
+					<li><img src="iwm/natur/N10.jpg" alt="Portrait" /></li>
+					<li><img src="iwm/natur/N4.jpg" alt="mdo"/></li>
+					<li><img src="iwm/natur/N12.jpg" alt="litl" /></li>
 				</ul>
+				
 			</div>
-		</div>
+		</aside>
 	</body>
 
 </html>
