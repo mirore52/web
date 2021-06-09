@@ -1,0 +1,42 @@
+html, body{
+  height:100%;
+  margin:0;
+  display: flex;
+  flex-direction: column;
+}
+.foncon {
+	background-color: #222222;
+}
+.foncon2 {
+	background-color: #DADADA;
+}
+#cajon {
+
+	margin-left: 9%;
+
+
+
+	margin-top: 5%;
+}
+
+
+a {
+  outline: none;
+  text-decoration: none;
+}
+a:visited {
+  color: #222222;
+}
+a:active {
+  color: #222222;
+}
+
+.titulo{
+    
+    font-family: "courier new"; font-size: 35px; font-weight: bold; text-align: center;
+    
+}
+
+
+
+

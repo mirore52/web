@@ -1,0 +1,47 @@
+a {
+  outline: none;
+  text-decoration: none;
+}
+a:visited {
+  color: #222222;
+}
+a:active {
+  color: #222222;
+}
+.foncon {
+	background-color: #DADADA;
+}
+
+.carrusel{
+    width: 95%;
+    margin: auto;
+    overflow: hidden;
+}
+.carrusel ul{
+    display: flex;
+    padding: 0;
+    width: 240%;
+    
+    animation: cambio 10s infinite;
+}
+.carrusel li{
+    width: 21%;
+    list-style: none;
+    
+}
+.carrusel img{
+width:25%;
+
+
+}
+@keyframes cambio {
+    0%{margin-left: 0;}
+    50%{margin-left: 0;}
+    
+    55%{margin-left: -100%;}
+    95%{margin-left: -100%;}
+    a {
+  outline: none;
+  text-decoration: none;
+}
+}

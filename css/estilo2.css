@@ -1,0 +1,254 @@
+html, body{
+  height:100%;
+  margin:0;
+  display: flex;
+  flex-direction: column;
+}
+a {
+	outline: none;
+	text-decoration: none;
+  }
+  a:visited {
+	color: #222222;
+  }
+  a:active {
+	color: #222222;
+  }
+.foncon {
+	background-color: #222222;
+}
+#fotocont {
+	 width: 70%; height: 70%;
+	 border-color: #DADADA;
+    margin-left: 3%
+	
+}
+#A1{
+	width: 100%;
+	height: 90%;
+	margin: 0;
+	padding-top: 0;
+	
+}
+#foto{
+	margin-left: 4%;
+	margin-top: 2%;
+	width: 50%;
+	
+	float:left;
+}
+#T1{
+	width: 40%;
+	height: 90%;
+	float: right;
+	background-color: #222222; 
+}
+#texto{
+	width: 70%;
+	height: 70%;
+	
+	
+	
+	align-items: center;
+	text-align: center;
+	
+	color: #DADADA;
+	font-size: 30px;
+	text-align:center;
+	padding-left:50px;
+	padding-right:50px;
+	font-style: italic;
+	
+}
+#redes
+a {
+  outline: none;
+  text-decoration: none;
+}
+a:visited {
+  color: #DADADA;
+}
+a:active {
+  color: #DADADA;
+}
+#E1 {
+	margin-top:9%;
+	background-color: #222222;
+	width: 100%;
+	height: 20%;
+	
+}
+#E2 {width: 50%;
+	height: 90%;
+	border-radius: 1em;
+	background-color: #222222;
+		float: left;
+		margin-top:55%;
+}
+#E3 {width: 50%;
+	height: 90%;
+	border-radius: 1em;
+	background-color: #222222;
+		float: right;
+		margin-top:55%;
+}
+#spotify {
+		float: left;
+		background-color: #222222;
+		width: 50%;
+		height: 100%;
+}
+#instagram {
+	float: right;
+	background-color: #222222;
+	width: 50%;
+	height: 100%;
+}
+#twitter {
+	float: left;
+	background-color: #222222;
+	width: 50%;
+	height: 100%;
+}
+#youtube {
+	float: right;
+	background-color: #222222;
+	width: 50%;
+	height: 100%;
+}
+
+
+
+#A1B {
+	width: 100%;
+	height: 100%;
+	background-color: #222222;
+	border: 3;
+}
+#A5B {
+	width: 122.3%;
+	height: 100%;
+	background-color: #222222;
+	border: 3;
+}
+#T1B {
+	width: 55%;
+	height: 80%;
+	float: left;
+	margin-top: 2%;
+	margin-left: 8%;
+	background-color: #DADADA;
+}
+#I1B {
+	width: 20%;
+	height: 80%;
+	background-color: #AAAAAA;
+	float: right;
+	margin-top: 2%;
+	margin-right: 4%;
+}
+#T2B {
+	width: 100%;
+	height: 40%;
+	
+}
+#T3B {
+	width: 100%;
+	height: 40%;
+	
+}
+#estrella {
+	margin: auto;
+	display: block;
+	width:40%;
+	
+}
+#poema1 {
+	text-align: center;
+	color: #222222;
+	font-size: 30px;
+	padding-left:50px;
+	padding-right:50px;
+	font-style: italic;
+	margin-top: 10%;
+	
+}
+
+
+#fecha{
+	
+	color: #222222;
+	font-size: 25px;
+	margin-left:2%;
+}
+#entrada1{
+	color: #222222;
+	font-size: 25px;
+}
+#indice{
+	color: #222222;
+	font-size: 30px;
+	text-align: center;
+	
+}
+form {
+	/* Centrar el formulario en la página */
+	margin: 0 auto;
+	width: 100%;
+	/* Esquema del formulario */
+	padding: 10%;
+	border: 1px solid #CCC;
+	border-radius: 1em;
+  }
+  
+  ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+  }
+  
+  form li + li {
+	margin-top: 10%;
+  }
+  
+  label {
+	/* Tamaño y alineación uniforme */
+	display: inline-block;
+	width: 30%;
+	text-align: right;
+  }
+  
+  input,
+  textarea {
+	/* Para asegurarse de que todos los campos de texto tienen la misma configuración de letra
+	   Por defecto, las áreas de texto tienen un tipo de letra monoespaciada */
+	font: 1em sans-serif;
+  
+	/* Tamaño uniforme del campo de texto */
+	width: 60%;
+	box-sizing: border-box;
+  
+	/* Hacer coincidir los bordes del campo del formulario */
+	border: 1px solid #999;
+  }
+  
+  input:focus,
+  textarea:focus {
+	/* Destacado adicional para elementos que tienen el cursor */
+	border-color: #000;
+  }
+  
+  textarea {
+	/* Alinear los campos de texto multilínea con sus etiquetas */
+	vertical-align: top;
+  
+	/* Proporcionar espacio para escribir texto */
+	height: 10%;
+  }
+  
+  .button {
+	/* Alinear los botones con los campos de texto */
+	padding-left: 10%; /* mismo tamaño que los elementos de la etiqueta */
+	list-style: none;
+  }
+  
